@@ -9,6 +9,7 @@ website](https://dse.in.tum.de/thesis/).
 
 
 Archives:
+- [2026](./archive/2026/README.md)
 - [2025](./archive/2025/README.md)
 - [2024](./archive/2024/README.md)
 
