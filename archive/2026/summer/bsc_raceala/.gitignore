@@ -1,0 +1,24 @@
+# build outputs
+*.o
+load-gen/dpdk_multiple_streams_server
+dpdk-host-cache/dpdk_host_cache
+dpdk-host-cache/dedupe_test
+af_xdp-host-cache/af_xdp_host_cache
+af_xdp-host-cache/tc_encaps
+host-cache-vm/client_ivshmem
+host-cache-vm/client_ivshmem_efd_sync
+host-cache-vm/client_ivshmem_efd_sync_opt
+shared-nothing-vm/client_multiple_streams
+context_switch_estimation/2_proc_efd
+context_switch_estimation/2_proc_efd_histo
+
+# measurement results and plots
+results/
+measurements/
+host-cache-vm/histograms/
+ipc_histo
+*.pdf
+
+# python
+__pycache__/
+*.pyc
